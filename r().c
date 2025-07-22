@@ -1,7 +1,4 @@
-/* ************************************************************************** */
-/*   rip.c  —  garde ta structure initiale, juste les corrections nécessaires */
-/*   Fonctions autorisées : puts, write                                       */
-/* ************************************************************************** */
+
 
 #include <stdlib.h>   /* strdup, free */
 #include <unistd.h>   /* write */
